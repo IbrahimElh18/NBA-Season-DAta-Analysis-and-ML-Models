@@ -1,0 +1,19 @@
+---
+:id: 256949288
+:submitters:
+- :name: Andrew Krikorian
+  :email: akrik001@ucr.edu
+- :name: Harjas Dhaliwal
+  :email: harjas.dhaliwal@email.ucr.edu
+- :name: Ibrahim Ahmad Elhajjmoussa
+  :email: ielha003@ucr.edu
+- :name: Justin Reveredo
+  :email: jreve007@ucr.edu
+- :name: Ethan Douglas
+  :email: edoug011@ucr.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-06-09 22:56:50.871257000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-06-09 15:56:50.871257000 Z
+:status: processed
